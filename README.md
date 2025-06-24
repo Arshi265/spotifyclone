@@ -30,8 +30,7 @@ It includes a custom music player that loads and plays local `.mp3` files, along
 
 ## 🌐 Live Demo
 
-🔗 [View Site on Netlify](https://your-netlify-link.netlify.app)  
-> Replace the above link with your actual Netlify deployed site.
+🔗 [View Site on Netlify]([https://your-netlify-link.netlify.app](https://arshidevcodes.netlify.app/))  
 
 ---
 
