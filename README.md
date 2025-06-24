@@ -66,7 +66,7 @@ Here are some planned features and improvements for this Spotify Clone:
 
 **Arshi Bano**  
  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/arshi-bano-0477ba309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 
 
